@@ -226,7 +226,7 @@ Flag embed_data_files
 
 Flag trypandoc
   Description:   Build trypandoc cgi executable.
-  Default:       False
+  Default:       True
 
 Flag https
   Description:   Enable support for downloading of resources over https.
